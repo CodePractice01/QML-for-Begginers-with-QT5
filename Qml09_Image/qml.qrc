@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>sometimes-you-gotta-get-through-your-ears-to-see-e-4478914.png</file>
+    </qresource>
+</RCC>
